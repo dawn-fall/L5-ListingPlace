@@ -1,0 +1,43 @@
+D:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\bin\Debug\Assignment2-1.exe.config
+D:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\bin\Debug\Assignment2-1.exe
+D:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\bin\Debug\Assignment2-1.pdb
+D:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2-1.csproj.AssemblyReference.cache
+D:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2-1.csproj.SuggestedBindingRedirects.cache
+D:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2_1.Form1.resources
+D:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2_1.Properties.Resources.resources
+D:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2-1.csproj.GenerateResource.cache
+D:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2-1.csproj.CoreCompileInputs.cache
+D:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2-1.exe
+D:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2-1.pdb
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\bin\Debug\Assignment2-1.exe.config
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\bin\Debug\Assignment2-1.exe
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\bin\Debug\Assignment2-1.pdb
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2-1.csproj.AssemblyReference.cache
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2-1.csproj.SuggestedBindingRedirects.cache
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2_1.Form1.resources
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2_1.Properties.Resources.resources
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2-1.csproj.GenerateResource.cache
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2-1.csproj.CoreCompileInputs.cache
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2-1.exe
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assignment2-1\Assignment2-1\obj\Debug\Assignment2-1.pdb
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\bin\Debug\Assignment2-1.exe.config
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\bin\Debug\Assignment2-1.exe
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\bin\Debug\Assignment2-1.pdb
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\obj\Debug\Assignment2-1.csproj.AssemblyReference.cache
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\obj\Debug\Assignment2-1.csproj.SuggestedBindingRedirects.cache
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\obj\Debug\Assignment2_1.Form1.resources
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\obj\Debug\Assignment2_1.Properties.Resources.resources
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\obj\Debug\Assignment2-1.csproj.GenerateResource.cache
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\obj\Debug\Assignment2-1.csproj.CoreCompileInputs.cache
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\obj\Debug\Assignment2-1.exe
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\obj\Debug\Assignment2-1.pdb
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT Degree\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\bin\Debug\Assignment2-1.exe.config
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT Degree\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\bin\Debug\Assignment2-1.exe
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT Degree\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\bin\Debug\Assignment2-1.pdb
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT Degree\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\obj\Debug\Assignment2-1.csproj.AssemblyReference.cache
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT Degree\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\obj\Debug\Assignment2_1.Form1.resources
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT Degree\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\obj\Debug\Assignment2_1.Properties.Resources.resources
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT Degree\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\obj\Debug\Assignment2-1.csproj.GenerateResource.cache
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT Degree\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\obj\Debug\Assignment2-1.csproj.CoreCompileInputs.cache
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT Degree\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\obj\Debug\Assignment2-1.exe
+G:\ToiOhomai Lv4-6 Coding\Level 5 IT Degree\Level 5 IT S2\Douglas Programming\Assessments\LMcNabb30063254PtB - VS2022\Assignment2-1\obj\Debug\Assignment2-1.pdb
